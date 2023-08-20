@@ -1,4 +1,4 @@
-# Termux:Styling
+## Termux::Styling
 
 [![Build status](https://github.com/termux/termux-styling/workflows/Build/badge.svg)](https://github.com/termux/termux-styling/actions)
 [![Join the chat at https://gitter.im/termux/termux](https://badges.gitter.im/termux/termux.svg)](https://gitter.im/termux/termux)
